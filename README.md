@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-- <b>Proxmox VM server setup</b>
+- <b>Audit Scope & Goals Project</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Virtual Machine Installation on Proxmox</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
