@@ -3,11 +3,7 @@
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Audit Scope & Goals Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Virtual Machine Installation on Proxmox</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Wazuh Open-Source SIEM installation</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Audit Scope & Goals Sections](https://github.com/Dre2G/Audit-Scope-and-Goals)
   
 
 
