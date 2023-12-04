@@ -1,10 +1,13 @@
-<h1>Hi, I'm Andre! <br/><a href="https://github.com/Dre2G">Jr IT Analytics</a> & <a href="https://www.linkedin.com/in/andre-taylor-452201249/">Cybersecurity</a> Student </h1>
+<h1>Hi, I'm Andre! <br/><a href="https://github.com/Dre2G">Jr IT Analytics</a> & <a href="https://www.linkedin.com/in/andre-taylor-452201249/">Cybersecurity Analyst</a> Entry Level </h1>
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Audit Scope & Goals Project</b>
   - [Audit Scope & Goals Sections](https://github.com/Dre2G/Audit-Scope-and-Goals)
-  
+- <b>Analyzing network structure and security Project</b>
+  - [Analyzing the network structure](https://github.com/Dre2G/Audit-Scope-and-Goals)
+- <b>Applying filters to SQL queries</b>
+  - [Applying filters to SQL queries steps](https://github.com/Dre2G/Audit-Scope-and-Goals)
 
 
 
