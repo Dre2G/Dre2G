@@ -8,7 +8,8 @@
   - [Analyzing the network structure](https://github.com/Dre2G/Audit-Scope-and-Goals)
 - <b>Applying filters to SQL queries</b>
   - [Applying filters to SQL queries steps](https://github.com/Dre2G/Audit-Scope-and-Goals)
-
+- <b>Using Linux commands to manage file permissions </b>
+  - [Steps taken to manage file permissions](https://github.com/Dre2G/Audit-Scope-and-Goals)
 
 
 <h2> 🤳 Connect with me:</h2>
