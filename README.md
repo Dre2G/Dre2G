@@ -5,7 +5,7 @@
 - <b>Audit Scope & Goals Project</b>
   - [Audit Scope & Goals Sections](https://github.com/Dre2G/Audit-Scope-and-Goals)
 - <b>Analyzing network structure and security Project</b>
-  - [Analyzing the network structure](https://github.com/Dre2G/Audit-Scope-and-Goals)
+  - [Analyzing the network structure](https://github.com/Dre2G/Incident-Report-Analysis)
 - <b>Applying filters to SQL queries</b>
   - [Applying filters to SQL queries steps](https://github.com/Dre2G/Audit-Scope-and-Goals)
 - <b>Using Linux commands to manage file permissions </b>
