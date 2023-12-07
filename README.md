@@ -9,7 +9,7 @@
 - <b>Applying filters to SQL queries</b>
   - [Applying filters to SQL queries steps](https://github.com/Dre2G/Apply-filters-to-SQL)
 - <b>Using Linux commands to manage file permissions </b>
-  - [Steps taken to manage file permissions](https://github.com/Dre2G/Audit-Scope-and-Goals)
+  - [Steps taken to manage file permissions](https://github.com/Dre2G/File-Permissions-in-Linux)
 
 
 <h2> 🤳 Connect with me:</h2>
