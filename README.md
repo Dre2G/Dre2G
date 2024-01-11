@@ -11,7 +11,7 @@
 - <b>Using Linux commands to manage file permissions </b>
   - [Steps taken to manage file permissions](https://github.com/Dre2G/File-Permissions-in-Linux)
 - <b>Update a file through a Python algorithm </b>
-  - [Creating Python algorithm steps](https://github.com/Dre2G/File-Permissions-in-Linux)
+  - [Creating Python algorithm steps](https://github.com/Dre2G/Update-a-file-through-a-Python-algorithm)
 
 
 
