@@ -10,6 +10,9 @@
   - [Applying filters to SQL queries steps](https://github.com/Dre2G/Apply-filters-to-SQL)
 - <b>Using Linux commands to manage file permissions </b>
   - [Steps taken to manage file permissions](https://github.com/Dre2G/File-Permissions-in-Linux)
+- <b>Update a file through a Python algorithm </b>
+  - [Creating Python algorithm steps](https://github.com/Dre2G/File-Permissions-in-Linux)
+
 
 
 <h2> 🤳 Connect with me:</h2>
