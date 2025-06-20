@@ -1,6 +1,9 @@
-<h1>Hi, I'm Andre! <br/><a href="https://github.com/Dre2G">Jr IT Analytics</a> & <a href="https://www.linkedin.com/in/andre-taylor-452201249/">Cybersecurity Analyst</a> Entry Level </h1>
+<h1>Hi, I'm Andre! <br/><a href="https://github.com/Dre2G">Jr IT Analytics</a>,<a href="https://www.linkedin.com/in/andre-taylor-452201249/">Cybersecurity Analyst, Database and AI Development</a> Entry Level </h1>
 
-<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT, Cybersecurity, Database & AI Projects:</h2>
+
+### Cybersecurity Projects
+---
 
 - <b>Audit Scope & Goals Project</b>
   - [Audit Scope & Goals Sections](https://github.com/Dre2G/Audit-Scope-and-Goals)
@@ -14,8 +17,11 @@
   - [analyzing a vulnerable system steps](https://github.com/Dre2G/Analyze-a-vulnerable-system-for-a-small-business)
 - <b>Update a file through a Python algorithm </b>
   - [Creating Python algorithm steps](https://github.com/Dre2G/Update-a-file-through-a-Python-algorithm)
+ 
+### AI Projects
+---
 
-
+<!--
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -28,7 +34,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
